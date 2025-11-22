@@ -10,7 +10,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-就读于*中国科学技术大学**，目前研0，人工智能专业
+就读于**中国科学技术大学**，目前研0，人工智能专业
 
 - 🌱 目前的研究方向是自动驾驶感知算法和多模态大模型研究。
 
