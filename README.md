@@ -33,7 +33,7 @@
 <div>&nbsp;</div>
 
 
-<img align="right" width="75" src="assets/images/Momenta.png" />
+<img align="right" width="75" src="assets/images/bytedance.png" />
 
 - [字节跳动 bytedance](https://www.bytedance.com/zh/) &emsp; 📌 2025.12 —— 至今
 - 工作岗位：多模态大模型算法工程师
