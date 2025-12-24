@@ -35,7 +35,7 @@
 
 <img align="right" width="75" src="assets/images/Momenta.png" />
 
-- [Momenta](https://www.bytedance.com/zh/) &emsp; 📌 2025.12 —— 至今
+- [字节跳动 bytedance](https://www.bytedance.com/zh/) &emsp; 📌 2025.12 —— 至今
 - 工作岗位：多模态大模型算法工程师
 
 <div>&nbsp;</div>
